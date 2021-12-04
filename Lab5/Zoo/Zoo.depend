@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1636014554 source:c:\users\yihao\desktop\ntu y2 s1\cz2002 object oriented programming\lab\lab 5\zoo\main.cpp
+	<iostream>
+	"animal.h"
+	"childAnimal.h"
+
+1636014717 source:c:\users\yihao\desktop\ntu y2 s1\cz2002 object oriented programming\lab\lab 5\zoo\src\animal.cpp
+	"animal.h"
+	<string>
+	<iostream>
+
+1636014701 c:\users\yihao\desktop\ntu y2 s1\cz2002 object oriented programming\lab\lab 5\zoo\include\animal.h
+	<string>
+	<iostream>
+
+1636002887 source:c:\users\yihao\desktop\ntu y2 s1\cz2002 object oriented programming\lab\lab 5\zoo\src\childanimal.cpp
+	"childAnimal.h"
+
+1636014798 c:\users\yihao\desktop\ntu y2 s1\cz2002 object oriented programming\lab\lab 5\zoo\include\childanimal.h
+	"animal.h"
+	<string>
+
